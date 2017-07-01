@@ -9,11 +9,11 @@ p $ git push origin master
 
 
 
-一级标题： #
-二级标题： ##
-段落：p
-无序列表: - 
-[www.baidu.com] 链接文字： [ ]
+p 一级标题： #
+p 二级标题： ##
+p 段落：p
+p 无序列表: - 
+p [www.baidu.com](www.baidu.com) 链接文字： [ ]
 
 | 表头| 表头|表头
 |--   |---  |--
